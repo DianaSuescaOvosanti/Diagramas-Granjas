@@ -1,0 +1,164 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
+  <diagram name="Página-1" id="z9mN_tTjK_9-DjghpgRM">
+    <mxGraphModel dx="1185" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-1" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_sSD-nhDaM9UrG8NZcl7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-2" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="_sSD-nhDaM9UrG8NZcl7-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-3" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_sSD-nhDaM9UrG8NZcl7-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="379" />
+              <mxPoint x="350" y="609" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-4" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="_sSD-nhDaM9UrG8NZcl7-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Informe diario de produccion acumulada" vertex="1">
+          <mxGeometry height="60" width="150" x="40" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-6" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" target="_sSD-nhDaM9UrG8NZcl7-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Graficas de clasificación" vertex="1">
+          <mxGeometry height="60" width="150" x="40" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-8" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_sSD-nhDaM9UrG8NZcl7-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="664" />
+            </Array>
+            <mxPoint x="340" y="704" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="1A- BELLAVISTA LOTE 9&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="150" x="40" y="634" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-10" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="744" />
+              <mxPoint x="270" y="724" />
+            </Array>
+            <mxPoint x="320" y="724" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="1B- BELLAVISTA LOTE 9&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="150" x="40" y="714" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-12" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="_sSD-nhDaM9UrG8NZcl7-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="774" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="1A-1B BELLAVISTA LOTE 9 (1)" vertex="1">
+          <mxGeometry height="60" width="150" x="40" y="804" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-14" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Archivo Mes" vertex="1">
+          <mxGeometry height="150" width="140" x="348" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-15" parent="_sSD-nhDaM9UrG8NZcl7-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Diaria" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-16" parent="_sSD-nhDaM9UrG8NZcl7-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Acumulado" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-17" parent="_sSD-nhDaM9UrG8NZcl7-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Series&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-18" parent="_sSD-nhDaM9UrG8NZcl7-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Inventario&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datos que llenan manualmente, archivos protegidos" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="714" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.009;entryY=0.072;entryDx=0;entryDy=0;entryPerimeter=0;" target="_sSD-nhDaM9UrG8NZcl7-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="534" />
+              <mxPoint x="300" y="534" />
+              <mxPoint x="300" y="495" />
+              <mxPoint x="498" y="495" />
+              <mxPoint x="498" y="515" />
+              <mxPoint x="559" y="515" />
+            </Array>
+            <mxPoint x="190" y="539" as="sourcePoint" />
+            <mxPoint x="280" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-21" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Tablero de gestón granjas" vertex="1">
+          <mxGeometry height="60" width="150" x="40" y="514" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-22" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Archivo conformado" vertex="1">
+          <mxGeometry height="150" width="140" x="594" y="172" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-23" parent="_sSD-nhDaM9UrG8NZcl7-22" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Base" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-24" parent="_sSD-nhDaM9UrG8NZcl7-22" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="BellaVista" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-25" parent="_sSD-nhDaM9UrG8NZcl7-22" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Nirvana" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-26" parent="_sSD-nhDaM9UrG8NZcl7-22" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Villa Laura" vertex="1">
+          <mxGeometry height="30" width="140" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-27" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="_sSD-nhDaM9UrG8NZcl7-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-28" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Pesañas archivo" vertex="1">
+          <mxGeometry height="150" width="140" x="624" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-29" parent="_sSD-nhDaM9UrG8NZcl7-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Clasificacion 2025" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-30" parent="_sSD-nhDaM9UrG8NZcl7-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Resumen BV" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-31" parent="_sSD-nhDaM9UrG8NZcl7-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Resumen Villa Laura" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-32" parent="_sSD-nhDaM9UrG8NZcl7-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Clasificacion por galpon" vertex="1">
+          <mxGeometry height="30" width="140" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-33" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Clasificación huevo por semana" vertex="1">
+          <mxGeometry height="60" width="120" x="852" y="238" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-34" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_sSD-nhDaM9UrG8NZcl7-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="764" y="364" />
+              <mxPoint x="808" y="364" />
+              <mxPoint x="808" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-35" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="-Clasificacion granjas&lt;div&gt;-Huevo no conforme&lt;/div&gt;&lt;div&gt;-Graficas&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="852" y="328" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-36" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="-Informacion por galpon&lt;br&gt;&lt;div&gt;-Grafica&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="852" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-37" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_sSD-nhDaM9UrG8NZcl7-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-38" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="_sSD-nhDaM9UrG8NZcl7-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_sSD-nhDaM9UrG8NZcl7-39" edge="1" parent="1" source="_sSD-nhDaM9UrG8NZcl7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="_sSD-nhDaM9UrG8NZcl7-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
